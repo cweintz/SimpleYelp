@@ -4,14 +4,14 @@
 
 **SimpleYelp** displays a list of search results from the Yelp API and displays the results in a scrollable list.
 
-Time spent: **2.5** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Functionality
 
 The following **required** functionality is completed:
 
-* [ ] Ability to query the Yelp API to get results from a search query
-* [ ] The search results are displayed in a RecyclerView
+* [X] Ability to query the Yelp API to get results from a search query
+* [X] The search results are displayed in a RecyclerView
 
 The following **extensions** are implemented:
 
