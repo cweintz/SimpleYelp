@@ -4,7 +4,7 @@
 
 **SimpleYelp** displays a list of search results from the Yelp API and displays the results in a scrollable list.
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Functionality
 
@@ -15,19 +15,19 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] User sees a descriptive error message if internet is not available
+* [X] User sees a descriptive error message if internet is not available
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/ePvrcCfXBYIIe9VgEk/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [GIPHY](https://giphy.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project went very smoothly. The only challenge I ran into this time was in the implementation of network error handling. I had implemented the code, however, forgot to request permission to access the network state of the Android device.
 
 ## License
 
